@@ -24,7 +24,7 @@ def create_plot(x,y, velicina, date_modified):
     # reformat date
     x_reformated = list()
     for datum in x:
-        x_reformated.append(datetime.strptime(datum,"%Y-%m-%d").strftime("%d.%m.%Y"))  # datum oddeleno .
+        x_reformated.append(datetime.strptime(datum,"%Y-%m-%d").strftime("%d.%m.%Y"))
 
     # plotting the points
     plt.plot(x_reformated, y, linestyle='dashed', color='r')
