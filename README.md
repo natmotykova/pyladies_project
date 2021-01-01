@@ -2,7 +2,9 @@
 
 Visualization of Covid-19 pandemic in Czechia.
 
+
 My project in Pyladies course.
+
 
 
 To run this code:
