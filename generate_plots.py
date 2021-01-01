@@ -30,8 +30,7 @@ def create_plot(x,y, velicina, date_modified):
     plt.plot(x_reformated, y, linestyle='dashed', color='r')
 
     # change xticks to weeks
-    # data co 14 dni,
-    # vytvari se list skrze cyklus
+    # data co 14 dni; vytvari list skrze cyklus
     plt.xticks(range(0,len(x_reformated),14), [x_reformated[w] for w in range(0,len(x_reformated),14)], rotation='90', fontsize = 10)
 
     # namig the x axis
@@ -46,11 +45,14 @@ def create_plot(x,y, velicina, date_modified):
     # fit everything to figure
     plt.tight_layout()
 
-    # nastaveni mrizky (od jakeho data)
+    # nastaveni mrizky (od urciteho data)
     plt.xlim([x_reformated[0],x_reformated[-1]])
 
     #grid
     plt.grid(True)
 
     # saving plots
-    plt.savefig(velicina + '_chart_' + date_modified + '.png', dpi=200)
+    plot_name = velicina + '_chart_' + date_modified + '.png'
+    plt.savefig(plot_name, dpi=200)
+
+    print(f'Succesfully created {plot_name}')
