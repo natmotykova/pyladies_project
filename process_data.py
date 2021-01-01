@@ -8,6 +8,7 @@ from generate_plots import create_plot
 
 
 # seznam odkazu (kumulativni pocet nakazenych = celkovy pocet nakazenych)
+# pracuji pouze s prvnim
 list_of_urls = ['https://onemocneni-aktualne.mzcr.cz/api/v2/covid-19/nakazeni-vyleceni-umrti-testy.json',
                 'https://onemocneni-aktualne.mzcr.cz/api/v2/covid-19/testy.json',
                 'https://onemocneni-aktualne.mzcr.cz/api/v2/covid-19/nakaza.json',
