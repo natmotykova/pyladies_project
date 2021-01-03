@@ -7,7 +7,7 @@ My project in Pyladies course.
 
 
 
-To run this code: the code is divided to two modules, the main code is process_data
+To run this code: the code is divided into two modules, the main code is process_data
 
 
 ![screenshot](plot_kumulativni_pocet_nakazenych.png?raw=true "FIGURE")
