@@ -6,7 +6,7 @@ import json
 import matplotlib.pyplot as plt
 import numpy as np
 from datetime import datetime
-from generate_plots3 import create_plot
+from generate_plots2 import create_plot
 
 
 # seznam odkazu (kumulativni pocet nakazenych = celkovy pocet nakazenych)
