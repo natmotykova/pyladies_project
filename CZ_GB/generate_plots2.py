@@ -31,7 +31,7 @@ def create_plot(x_cz,y_cz,x_eng,y_eng, velicina, date_modified):
     plt.plot(x_reformated_cz, y_cz, linestyle='dashed', color='r', label='ČR')
     plt.plot(x_reformated_eng, y_eng, linestyle='dashed', color='b', label='VB')
 
-    #plt.legend()
+    plt.legend()
 
     # change xticks to weeks
     # data co 14 dni; vytvari list skrze cyklus
