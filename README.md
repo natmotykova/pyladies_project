@@ -13,7 +13,8 @@ The project has three parts:
 -	Cumulative number of recovered 
 -	Cumulative number of deaths
 -	Cumulative number of tests
- To run this code: the code is divided into two modules, the main code is process_data
+
+To run this code: the code is divided into two modules, the main code is process_data
 
 ![screenshot](kumulativni_pocet_nakazenych_chart.png?raw=true "FIGURE")
 
