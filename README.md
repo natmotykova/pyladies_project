@@ -28,4 +28,4 @@ To run this code: the code is divided into two modules, the main code is process
 3.	Comprasion of some European countries 
 -	Cumulative number of infected per 100 thousands inhabitants 
 
-![screenshot](bar_plot.png?raw=true "FIGURE") 
+![screenshot](bar_plot_Europe.png?raw=true "FIGURE") 
