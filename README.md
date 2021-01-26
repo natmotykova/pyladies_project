@@ -3,12 +3,11 @@
 Visualization of Covid-19 pandemic in Czechia.
 
 My project in Pyladies course.
-To run this code: the code is divided into two modules, the main code is process_data
+
 
 The project has three parts:
 
-1.	Epidemy in Czechia
-Generates four plots: 
+1.	Epidemy in Czechia. Generates four plots: 
 
 -	Cumulative number of infected people 
 -	Cumulative number of recovered 
