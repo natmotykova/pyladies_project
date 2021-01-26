@@ -18,7 +18,7 @@ To run this code: the code is divided into two modules, the main code is process
 
 ![screenshot](kumulativni_pocet_nakazenych_chart.png?raw=true "FIGURE")
 
-2.	Comparison of Czechia and the Great Britain. Generates one plot:
+2.	Comparison of Czechia and the UK. Generates one plot:
 -	Cumulative number of infected per 100 thousands inhabitants 
 
 To run this code: the code is divided into two modules, the main code is process_data
