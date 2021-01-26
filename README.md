@@ -23,7 +23,7 @@ To run this code: the code is divided into two modules, the main code is process
 
 To run this code: the code is divided into two modules, the main code is process_data
 
-![screenshot](kumulativni_pocet_nakazenych_chart_CZ_GB.png?raw=true "FIGURE")
+![screenshot](kumulativni_pocet_nakazenych_chart_CZ_UK.png?raw=true "FIGURE")
 
 3.	Comprasion of some European countries 
 -	Cumulative number of infected per 100 thousands inhabitants 
