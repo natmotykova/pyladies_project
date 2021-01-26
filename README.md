@@ -15,7 +15,7 @@ The project has three parts:
 -	Cumulative number of tests
  To run this code: the code is divided into two modules, the main code is process_data
 
-![screenshot](kumulativni_pocet_nakazenych_chart.png?raw=true "FIGURE")
+
 
 2.	Comparison of Czechia and the Great Britain
 Generates one plot:
